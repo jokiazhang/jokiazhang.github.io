@@ -3,5 +3,7 @@ layout: post
 title: "Hello, Workd!"
 date: 2014-11-22 11:52:21 +0800
 comments: true
-categories: 
+categories: About
+published: true
 ---
+***This is my first blog, please enjoy it!***
