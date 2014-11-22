@@ -3,12 +3,10 @@
 # ----------------------- #
 
 url: http://jokiazhang.github.io
-title: jokiazhang's Blog
-subtitle: Make Things Easy And Make Life Wonderful!
+title: jokiazhang
+subtitle: Make Things Easy And Make Life Wonderful
 author: jokiazhang
-name : Name Lastname
 email : zhangyangchao@gmail.com
-github : jokiazhang
 simple_search: https://www.google.com/search
 description:
 
@@ -20,9 +18,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email:zhangyangchao@gmail:
 # RSS feeds can list your email address if you like
-email:
+email:zhangyangchao@gmail:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
