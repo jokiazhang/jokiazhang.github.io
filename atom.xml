@@ -4,7 +4,7 @@
   <title><![CDATA[jokiazhang]]></title>
   <link href="http://jokiazhang.github.io/atom.xml" rel="self"/>
   <link href="http://jokiazhang.github.io/"/>
-  <updated>2014-11-22T21:11:07+08:00</updated>
+  <updated>2014-11-23T13:55:21+08:00</updated>
   <id>http://jokiazhang.github.io/</id>
   <author>
     <name><![CDATA[jokiazhang]]></name>
@@ -14,11 +14,41 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello, Workd!]]></title>
+    <title type="html"><![CDATA[Hello]]></title>
     <link href="http://jokiazhang.github.io/blog/2014/11/22/hello/"/>
-    <updated>2014-11-22T11:52:21+08:00</updated>
+    <updated>2014-11-22T00:00:00+08:00</updated>
     <id>http://jokiazhang.github.io/blog/2014/11/22/hello</id>
-    <content type="html"><![CDATA[<p><strong><em>This is my first blog, please enjoy it!</em></strong></p>
+    <content type="html"><![CDATA[<h1>减肥</h1>
+
+<p><strong><em>放假饿了忘记烦饿了忘记飞蛾我`飞蛾看`</em></strong></p>
+
+<blockquote><ul>
+<li><h4>减肥额忘记 放假==<em>额快忘记姐姐</em>==开会开会很快很快好很快很快就好开会可好可好还开会</h4></li>
+</ul>
+</blockquote>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class='objective-c'><span class='line'><span class="k">if</span> <span class="p">(</span><span class="n">x</span> <span class="o">==</span> <span class="mi">0</span><span class="p">)</span>
+</span><span class='line'><span class="p">{</span>
+</span><span class='line'>  <span class="k">switch</span> <span class="p">(</span><span class="n">a</span><span class="p">)</span>
+</span><span class='line'>  <span class="p">{</span>
+</span><span class='line'>      <span class="k">case</span> <span class="mi">2</span><span class="o">:</span>
+</span><span class='line'>      <span class="k">break</span><span class="p">;</span>
+</span><span class='line'>      <span class="k">default</span><span class="o">:</span>          
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h1>fjewkljfe</h1>
 ]]></content>
   </entry>
   
