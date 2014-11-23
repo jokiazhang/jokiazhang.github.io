@@ -1,9 +1,17 @@
----
-layout: post
-title: "Hello, Workd!"
-date: 2014-11-22 11:52:21 +0800
-comments: true
-categories: About
-published: true
----
-***This is my first blog, please enjoy it!***
+# 减肥
+***放假饿了忘记烦饿了忘记飞蛾我\`飞蛾看\`***
+> * #### 减肥额忘记 放假==_额快忘记姐姐_==开会开会很快很快好很快很快就好开会可好可好还开会
+
+
+```objective-c
+	if (x == 0)
+	{
+		switch (a)
+		{
+			case 2:
+			break;
+			default:			
+		}
+	}
+```
+#fjewkljfe 
